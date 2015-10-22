@@ -1,0 +1,4 @@
+i
+hello world \
+i have figured out the cat command and the cd command
+oooow also the mkdir > commands
